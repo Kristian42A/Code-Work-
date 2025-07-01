@@ -17,8 +17,8 @@ data = [
     ["Target", 40],
     ["Aldi", 75],
     ["Lidl", 60],
-    ["Nintnedo", 55],
-    ["Xboc", 50],
+    ["Nintedo", 55],
+    ["Xbox", 50],
 
 ]
 
