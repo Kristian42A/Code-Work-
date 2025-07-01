@@ -35,6 +35,7 @@ print(f'Data has been written to {file_path}')
 
 data = pd.read_csv(file_path)
 
+data = data.sort_values(by='Score', ascending=False)
 
 print(data)
 
